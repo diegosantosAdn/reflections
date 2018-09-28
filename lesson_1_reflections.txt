@@ -1,0 +1,136 @@
+Reflexão sobre a necessidade de utilizar um controle de versão 
+
+Pela dificuldade de identificação de arquivos faz se necessário a utilização de controles de versãoes 
+Eles ajudam a identificar alterações e a voltar a um versão anterior se necessário 
+
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programados mais eficiente no longo
+prazo?
+
+Com a facilidade de poder saber identificar os erros as modificações necessárias o evolutivo de desenvolvimento. 
+
+
+Mapas de Conceitos 
+
+Version Control
+
+Commit 
+
+Diff
+
+Com que frequência confirmar ? 
+
+Por alteração lógica. Isso permitirá maior compreensão no momento de fazer o diff. 
+
+Commits manuais (prós e contras)
+
+Commits with mutiple file 
+
+repository 
+
+Por quê você acha que alguns sistemas de controle de versão como o git ermitem salvar vários arquivos em um commit,enquanto outros, como 
+o Google Docs,  tratram cada arquivo separadamento?	
+
+
+Pela proposta de desenvolvimento e identificação de evolução 
+
+Clone - make posible baixar a project 
+
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos 
+
+O git log ajuda no detalhe dos comits 
+o git diff ajudar ver as diferenças entre as versões  
+
+Você quer usar o git para quê? 
+
+Para aumentar o meu controle com código 
+
+git init é bastante utilizado para criar um novo repositório a partir de um source 
+
+Reinitialized existing Git repository in P:/lesson-3/.git/
+
+
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

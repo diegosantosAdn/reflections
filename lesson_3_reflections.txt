@@ -1,0 +1,19 @@
+Como você pode usar  a área de preparação para garantir que tenha um commit por alteração lógica? 
+
+ Adicionando na area de preparação somente o da alteração lógica
+
+Branches - Label for commits 
+
+
+git branch "name"- Create a new branch 
+git branch -- ver os branch criados 
+   linha 678 
+
+Quando utilizar Branches ? 
+
+
+ Quando temos projetos com a complexidade muilto , clientes distintos .. programação com mais de uma frente 
+
+
+
+
